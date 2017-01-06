@@ -6,6 +6,6 @@ redraniview by Property Animation and Bézier curve
 
 ![image] (https://github.com/Tiannuo/RedRainView/blob/master/app/src/main/java/com/tikou/redbagbessel/redbag.gif)
 
-* [https://github.com/hongyangAndroid/okhttp-utils](https://github.com/hongyangAndroid/okhttp-utils)  
+* (https://github.com/hongyangAndroid/okhttp-utils)  
 
 
